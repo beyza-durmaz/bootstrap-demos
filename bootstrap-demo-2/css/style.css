@@ -1,0 +1,11 @@
+.photo {
+    width: 125px;
+    height: 125px;
+    border-radius: 50%;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.photo-box {
+    text-align: center;
+}
